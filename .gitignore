@@ -1,6 +1,10 @@
-*!
-*! > .gitignore.*
-mtr
+# Ignore all files with no extensions (Linux executables like mat, pal, str, myeb, mtr)
+*
+!*.*
+!.gitignore
+
+# Ignore specific C compiler default output files
 a.out
 *.out
+*.o
 *.exe
