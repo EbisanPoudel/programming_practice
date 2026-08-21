@@ -1,2 +1,6 @@
 *!
 *! > .gitignore.*
+mtr
+a.out
+*.out
+*.exe
