@@ -1,3 +1,4 @@
+// pointer basic 
 #include<stdio.h>
 int main()
 {
