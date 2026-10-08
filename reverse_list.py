@@ -8,10 +8,13 @@ while i<n:
 
 print(list)
 i=0
-while i!=n:
+while i<n:
+     temp=list[i]
      list[i]=list[n-1]
-     list[n-1]=list[i]
+     list[n-1]=temp
+
      i=i+1
      n=n-1
 
 print(list)
+
