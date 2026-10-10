@@ -1,4 +1,4 @@
-
+// just for 5 inputs 
 #include <stdio.h>
 
 int main()
