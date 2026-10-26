@@ -1,4 +1,4 @@
-//this code is just for one student only 
+
 #include <stdio.h>
 #include <string.h>
 
