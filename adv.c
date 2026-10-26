@@ -1,4 +1,4 @@
-
+//this is for just one 1 studnet data only
 #include <stdio.h>
 #include <string.h>
 
