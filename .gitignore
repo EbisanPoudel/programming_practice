@@ -1,9 +1,10 @@
-# Ignore all files with no extensions (Linux executables like mat, pal, str, myeb, mtr)
-*
+# Ignore files without extensions
+/*
+!/*/
 !*.*
 !.gitignore
 
-# Ignore specific C compiler default output files
+# Ignore C compiler output files
 a.out
 *.out
 *.o
