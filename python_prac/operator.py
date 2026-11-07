@@ -2,6 +2,7 @@
 # # git add python_prac/filename.py
 # # git commit -m "message"
 # # git push
+#30 days python day 3 from Asabeneh
 
 
 #qno1
